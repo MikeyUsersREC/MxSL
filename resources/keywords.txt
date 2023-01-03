@@ -1,0 +1,10 @@
+# declare variable
+DEC A  = 19
+
+IDENTIFIER
+KEYWORD
+EQ
+
+    DEC     variable_name       =       <expr>
+     ^              ^           ^
+    KEYWORD     IDENTIFIER      EQUALS

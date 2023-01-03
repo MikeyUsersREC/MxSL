@@ -1,0 +1,9 @@
+DEC a = 17
+DEC b = 18
+DEC c = 19
+
+FUNC three_way_power(a, b, c)
+    RETURN a * b * c
+END
+
+PRINT("The result is: " + three_way_power(a, b, c))
